@@ -1,0 +1,14 @@
+hotel-booking
+|-- src
+|   |-- main
+|   |   |-- java
+|   |   |   |-- pages
+|   |   |   |   |-- HomePage.java
+|   |   |   |   |-- BookingPage.java
+|   |   |   |-- utils
+|   |   |   |   |-- DataReader.java
+|   |-- test
+|       |-- java
+|       |   |-- tests
+|       |   |   |-- BookingTest.java
+|-- pom.xml
